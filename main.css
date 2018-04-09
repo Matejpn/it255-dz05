@@ -1,0 +1,73 @@
+.navbar {
+  width: 100%;
+  height: 100%; }
+  .navbar .container .navbar-brand {
+    padding-left: 100px; }
+  .navbar .container .collapse .navbar-nav {
+    padding-left: 150px; }
+    .navbar .container .collapse .navbar-nav .nav-item {
+      text-align: center;
+      padding: 5px;
+      font-size: 22px; }
+    .navbar .container .collapse .navbar-nav h4 {
+      float: left; }
+
+.slika {
+  width: 100%; }
+  .slika img {
+    width: 100%;
+    height: 500px; }
+
+.row {
+  padding-top: 30px;
+  padding-left: 25px;
+  width: 100%; }
+  .row .thumbnail {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding-bottom: 5px; }
+    .row .thumbnail img {
+      margin-top: 10px; }
+
+#lokacija {
+  width: 100%;
+  height: 600px;
+  padding-top: 50px;
+  padding-left: 45px; }
+  #lokacija h1 {
+    text-align: center; }
+  #lokacija #map {
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 95%;
+    height: 500px;
+    border-radius: 10px; }
+
+footer {
+  border-top: 1px solid gray; }
+  footer .mt-2 a {
+    font-size: 2.5em; }
+
+.card-group {
+  padding-top: 20px; }
+  .card-group img {
+    height: 300px;
+    width: 470px; }
+
+.paralia-bg {
+  background-color: lightblue; }
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+  height: 300px;
+  width: 400px; }
+  .col-centered img {
+    float: left;
+    padding: 5px; }
+
+.card-deck {
+  padding-top: 30px; }
+
+/*# sourceMappingURL=main.css.map */
